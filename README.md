@@ -40,7 +40,7 @@ This project contributes to ongoing research in **precision agriculture**, **rem
 📌 **Models are in the master branch.** Please check the `master` branch for all trained models and implementation details.  
 
 ## **Acknowledgment**  
-This project was developed as part of an academic research study under the guidance of our faculty at **Heritage Institute of Technology**. We extend our gratitude to **Professor Subhajit Dutta** for his valuable insights and support.
+This project was developed as part of an academic research study under the guidance of our faculty at **Heritage Institute of Technology**. We extend our gratitude to **Professor Subhajit Dutta sir** for his valuable insights and support.
 
 ## **Team**  
 

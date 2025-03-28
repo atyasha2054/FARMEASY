@@ -36,15 +36,15 @@ This project contributes to ongoing research in **precision agriculture**, **rem
 - Climate impact analysis on agriculture  
 - Blockchain-based agricultural supply chain tracking  
 
+## **Branch Information**  
+📌 **Models are in the master branch.** Please check the `master` branch for all trained models and implementation details.  
+
 ## **Acknowledgment**  
-This project is developed as part of an academic research study under the guidance of our faculty at **Heritage Institute of Technology** We extend our gratitude to our professor Subhajit Dutta sir for his valuable insights and support.  
+This project was developed as part of an academic research study under the guidance of our faculty at **Heritage Institute of Technology**. We extend our gratitude to **Professor Subhajit Dutta** for his valuable insights and support.
 
 ## **Team**  
 
 🔹 **Subhanjan Saha**  
-
-🔹 **Atyasha Bhattacharyya** 
-
+🔹 **Atyasha Bhattacharyya**    
 🔹 **Kazi Jiyad Hasan**  
-
 🔹 **Sandeep Sarkar**  
